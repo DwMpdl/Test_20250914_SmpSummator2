@@ -82,11 +82,46 @@
   {
     "question": "Welcher Softwareentwicklungsprozess wird definiert? Wie werden die Prozessrollen zugewiesen?",
     "set": "",
-    "values": "Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechend zugewiesen."
+    "values": "Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechend zugewiesen. So wird das gemacht."
   },
   {
     "question": "Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?",
     "set": "",
     "values": "Das ist der erste Antwort-Eintrag zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\"; Und das der zweite Antwort-Eintrag , ebenfalls zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\""
+  },
+  {
+    "question": "Gibt es definierte Release-Prozesse f\u00fcr die Software?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Gibt es definierte Release-Prozesse f\u00fcr die Software?\"."
+  },
+  {
+    "question": "Wie sieht der Entscheidungsprozess f\u00fcr den Release aus? Wie oft wird eine Softwareversion erstellt?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Wie sieht der Entscheidungsprozess f\u00fcr den Release aus? Wie oft wird eine Softwareversion erstellt?\"."
+  },
+  {
+    "question": "Wird diese Software \u00f6ffentlich zug\u00e4nglich sein?",
+    "set": "",
+    "values": "Ja"
+  },
+  {
+    "question": "In welchem Repository oder Archiv wird die Software aufbewahrt? Wie leicht kann es gefunden werden? Welche Strategie wird angewandt, um die Software benutzbar zu halten?",
+    "set": "",
+    "values": "Das soll bei zenodo oder so aubahrt werden."
+  },
+  {
+    "question": "Wie ist die rechtliche Situation?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Wie ist die rechtliche Situation?\"."
+  },
+  {
+    "question": "Wird im Rahmen des Projekts Software verwendet und/oder hergestellt, die durch geistige oder gewerbliche Eigentumsrechte Dritter gesch\u00fctzt ist?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"\"."
+  },
+  {
+    "question": "Unter welche Art von Lizenz(en) wird die Software fallen?",
+    "set": "",
+    "values": "MIT"
   }
 ]
