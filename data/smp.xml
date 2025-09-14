@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-09-14T19:53:57.711953+02:00" required="2.1.0" version="2.3.3">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-09-14T20:08:29.130895+02:00" required="2.1.0" version="2.3.3">
 	<title>Test_20250914_Summator</title>
 	<description>SMP für die Erstellung einer Software,  mit der man 2 Zahlen oder sogar mehr als 2 Zahlen addieren kann.
 Die Software soll &quot;SummatorPro&quot; heißen.</description>
@@ -14,6 +14,51 @@ Die Software soll &quot;SummatorPro&quot; heißen.</description>
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvcomma"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>0c83325892f57c41bcf3238d24296de31470b931</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:07:54.650793+02:00</created>
+			<updated>2025-09-14T20:07:54.650798+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvsemicolon"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>f05e4cdf52a7e1d78de8b326e5da6c690e98766b</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:07:54.935079+02:00</created>
+			<updated>2025-09-14T20:07:54.935084+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/json"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>df53a9ac975458e74c1deda420097d70d886a33f</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:07:55.192342+02:00</created>
+			<updated>2025-09-14T20:07:55.192347+02:00</updated>
+		</value>
 		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix>0</set_prefix>
@@ -285,20 +330,126 @@ Die Software soll &quot;SummatorPro&quot; heißen.</description>
 			<updated>2025-09-14T18:53:02.565819+02:00</updated>
 		</value>
 		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/decision-releasing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist die Antwort zu &quot;Wie sieht der Entscheidungsprozess für den Release aus? Wie oft wird eine Softwareversion erstellt?&quot;.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:00:07.053853+02:00</created>
+			<updated>2025-09-14T20:00:20.935654+02:00</updated>
+		</value>
+		<value>
 			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/development-process"/>
 			<set_prefix/>
 			<set_index>0</set_index>
 			<set_collection>False</set_collection>
 			<collection_index>0</collection_index>
 			<text>Es wird die Wasserfallmethode verwendet, oder auch nicht.
-Prozesse werden entsprechend zugewiesen.</text>
+Prozesse werden entsprechend zugewiesen.
+So wird das gemacht.</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
 			<unit/>
 			<external_id/>
 			<created>2025-09-14T18:57:11.048537+02:00</created>
-			<updated>2025-09-14T19:28:11.183718+02:00</updated>
+			<updated>2025-09-14T19:58:49.605228+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/external-software-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist die Antwort zu &quot;&quot;.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:01:15.163916+02:00</created>
+			<updated>2025-09-14T20:01:30.632272+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/releasing-who"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist die Antwort zu &quot;Gibt es definierte Release-Prozesse für die Software?&quot;.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T19:59:34.448333+02:00</created>
+			<updated>2025-09-14T19:59:48.671953+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-license"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>6</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/software-license/MIT"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:06:52.436913+02:00</created>
+			<updated>2025-09-14T20:06:52.436916+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-property-rights"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist die Antwort zu &quot;Wie ist die rechtliche Situation?&quot;.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:01:04.698775+02:00</created>
+			<updated>2025-09-14T20:01:21.132447+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-repository"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das soll bei zenodo oder so aubahrt werden.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:00:36.787673+02:00</created>
+			<updated>2025-09-14T20:00:50.309686+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/software-sharing"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>1</text>
+			<option/>
+			<file/>
+			<value_type>boolean</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T20:00:27.515338+02:00</created>
+			<updated>2025-09-14T20:00:27.515342+02:00</updated>
 		</value>
 		<value>
 			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
@@ -332,5 +483,5 @@ Prozesse werden entsprechend zugewiesen.</text>
 		</value>
 	</values>
 	<created>2025-09-14T18:44:54.481805+02:00</created>
-	<updated>2025-09-14T19:26:31.770959+02:00</updated>
+	<updated>2025-09-14T20:06:52.692508+02:00</updated>
 </project>
