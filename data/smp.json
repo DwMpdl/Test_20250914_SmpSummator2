@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "SummatorPro - eine neue Software f\u00fcr Zahlenaddition"
+  },
+  {
+    "question": "Zu welchem(n) Forschungsbereich(en) geh\u00f6rt diese Software?",
+    "set": "",
+    "values": "Ingenieurwissenschaften / Informatik; Naturwissenschaften / Mathematik"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 3: F\u00fcr die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere f\u00fcr kritische Software und solche mit Produkteigenschaften."
+  },
+  {
+    "question": "Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?",
+    "set": "",
+    "values": "Das ist die Antwort zu \"Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?\""
+  },
+  {
+    "question": "Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",
+    "set": "",
+    "values": "Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu."
+  },
+  {
+    "question": "ORCID-Suche",
+    "set": "Set \"Tina\"",
+    "values": "Erika Mustermann [0009-0004-5716-2091]"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Tina\"",
+    "values": "Mustermann"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Tina\"",
+    "values": "Tina Erika"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Tina\"",
+    "values": "https://orcid.org/0009-0004-5716-2091"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Tina\" Set #1",
+    "values": "Addier-Experte"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Tina\" Set #1",
+    "values": "Math for America [0024x0915]"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Tina\" Set #1",
+    "values": "Math for America"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Tina\" Set #1",
+    "values": "https://ror.org/0024x0915"
+  },
+  {
+    "question": "Gibt es existierende (personellen/finanziellen) Ressourcen oder wird es eine spezielle Finanzierung f\u00fcr die Softwareentwicklung geben?",
+    "set": "",
+    "values": "Mitfinanzierung durch gro\u00dfen Softwarekonzernn"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2025-09-17"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2025-09-28"
+  },
+  {
+    "question": "Welcher Softwareentwicklungsprozess wird definiert? Wie werden die Prozessrollen zugewiesen?",
+    "set": "",
+    "values": "Es wird die Wasserfallmethode verwendet, oder auch nicht. Prozesse werden entsprechend zugewiesen."
+  },
+  {
+    "question": "Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?",
+    "set": "",
+    "values": "Das ist der erste Antwort-Eintrag zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\"; Und das der zweite Antwort-Eintrag , ebenfalls zur Frage \"Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?\""
+  }
+]
