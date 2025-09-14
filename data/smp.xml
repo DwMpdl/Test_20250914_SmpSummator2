@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-09-14T19:53:57.711953+02:00" required="2.1.0" version="2.3.3">
+	<title>Test_20250914_Summator</title>
+	<description>SMP für die Erstellung einer Software,  mit der man 2 Zahlen oder sogar mehr als 2 Zahlen addieren kann.
+Die Software soll &quot;SummatorPro&quot; heißen.</description>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>Math for America</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:55:47.610669+02:00</created>
+			<updated>2025-09-14T18:55:47.610671+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-autocomplete"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Math for America [0024x0915]</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>0024x0915</external_id>
+			<created>2025-09-14T18:55:47.441099+02:00</created>
+			<updated>2025-09-14T18:55:47.441102+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-id"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>https://ror.org/0024x0915</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:55:47.605245+02:00</created>
+			<updated>2025-09-14T18:55:47.605250+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>Mustermann</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:53:57.466201+02:00</created>
+			<updated>2025-09-14T18:54:27.263129+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/given-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>Tina Erika</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:53:57.462417+02:00</created>
+			<updated>2025-09-14T18:54:37.918270+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-autocomplete"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Erika Mustermann [0009-0004-5716-2091]</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>0009-0004-5716-2091</external_id>
+			<created>2025-09-14T18:53:57.143511+02:00</created>
+			<updated>2025-09-14T18:54:27.012508+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/0009-0004-5716-2091</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:53:57.458044+02:00</created>
+			<updated>2025-09-14T18:54:27.256453+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/role"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Addier-Experte</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:55:10.387059+02:00</created>
+			<updated>2025-09-14T18:55:29.900634+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/funder"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Mitfinanzierung durch großen Softwarekonzernn</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:56:19.507743+02:00</created>
+			<updated>2025-09-14T18:56:32.736163+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Tina</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:53:35.455954+02:00</created>
+			<updated>2025-09-14T18:53:35.455958+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/215"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:50:46.425344+02:00</created>
+			<updated>2025-09-14T18:50:46.425347+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/200"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:51:00.183570+02:00</created>
+			<updated>2025-09-14T18:51:00.183575+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_question/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist die Antwort zu &quot;Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?&quot;</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:51:30.933899+02:00</created>
+			<updated>2025-09-14T18:52:03.148213+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_end"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2025-09-28</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:56:50.724462+02:00</created>
+			<updated>2025-09-14T18:56:50.724465+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/schedule/project_start"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>2025-09-17</text>
+			<option/>
+			<file/>
+			<value_type>datetime</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:56:47.258380+02:00</created>
+			<updated>2025-09-14T18:56:47.258382+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>SummatorPro - eine neue Software für Zahlenaddition</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:49:20.988007+02:00</created>
+			<updated>2025-09-14T18:50:32.176736+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:51:08.852669+02:00</created>
+			<updated>2025-09-14T18:51:08.852672+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/buy-or-make"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Man kann nicht nur zwei Zahlen addieren, sondern mehrere. Sowas klingt doch sehr neu.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:52:44.276507+02:00</created>
+			<updated>2025-09-14T18:53:02.565819+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/development-process"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Es wird die Wasserfallmethode verwendet, oder auch nicht.
+Prozesse werden entsprechend zugewiesen.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T18:57:11.048537+02:00</created>
+			<updated>2025-09-14T19:28:11.183718+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Das ist der erste Antwort-Eintrag zur Frage &quot;Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?&quot;</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T19:26:31.503875+02:00</created>
+			<updated>2025-09-14T19:26:48.126608+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/track-tasks"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text>Und das der zweite Antwort-Eintrag , ebenfalls zur Frage &quot;Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?&quot;</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2025-09-14T19:26:53.046047+02:00</created>
+			<updated>2025-09-14T19:27:10.776866+02:00</updated>
+		</value>
+	</values>
+	<created>2025-09-14T18:44:54.481805+02:00</created>
+	<updated>2025-09-14T19:26:31.770959+02:00</updated>
+</project>
