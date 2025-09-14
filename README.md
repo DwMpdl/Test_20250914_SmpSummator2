@@ -25,3 +25,5 @@ Software? Wie wird Ihre Software zur Forschung beitragen?\"
 
 **What licences are on the third-party software components?
 (smp/software-license):**
+
+MIT
